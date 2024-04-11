@@ -14,3 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+![1d26af443561f39c](https://github.com/angemiguelsoro/Namer-App/assets/98671210/46d15c53-f04b-4104-983c-2bf38bda5e5b)
